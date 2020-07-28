@@ -2,7 +2,7 @@
 
 
 The Repository contains (Partial - Sample & Worked out) Codes of the project "Box Framework".
-Box Framwork is a Data Analytics based project (Automation Framework for a data-analytics pipeline) , that i worked on during my internship period at PI. The project uses Data Analytics use-cases to form boxes (Sets / Containers) of 
+Box Framwork is a Data Analytics based project (Automation Framework for a data-analytics pipeline) , that i worked on during my internship period at Positive Integers. The project uses Data Analytics use-cases to form boxes (Sets / Containers) of 
 products that can be sold into the open markets.
 
 I've uploaded the code and methodolgies along with the intense logic that has been used in the project . The Required runtime is around 5 mins for a "Typically" Huge Dataset.
