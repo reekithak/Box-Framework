@@ -42,7 +42,7 @@ The Repository contains (Partial & Worked out) Codes of the project "Box Framewo
 ### Actual Box Creation
 <img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/4.boxbegins.JPG">
 <img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/5.boxintermediate.JPG">
-<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/5.boxfinal.JPG">
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/6.boxfinal.JPG">
 
 - I've uploaded the code and methodolgies along with the intense logic that has been used in the project . The Required runtime is around 5 mins for a "Typically" Huge Dataset. The project takes into account by usage of various py-libraries such as (numpy,pandas,matplotlib,math etc ).
 
