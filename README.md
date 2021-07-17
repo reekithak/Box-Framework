@@ -27,14 +27,25 @@ The Repository contains (Partial & Worked out) Codes of the project "Box Framewo
 
 ## Some Shots from the main Project
 
-### Beginning KPI (Key Performance Indicator)
+### Beginning KPI (Key Performance Indicator):
 <img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/1.kpi.JPG">
 
+### Categories worked on:
+- GS: General Stores
+- KS: Kirana Stores
+- MS: Mainstream/Super Markets
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/2.category.JPG">
 
+### Intermediate Computation
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/3.average.JPG">
 
-I've uploaded the code and methodolgies along with the intense logic that has been used in the project . The Required runtime is around 5 mins for a "Typically" Huge Dataset.
-The project takes into account by usage of various py-libraries such as (numpy,pandas,matplotlib,math etc ).
+### Actual Box Creation
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/4.boxbegins.JPG">
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/5.boxintermediate.JPG">
+<img src="https://github.com/reekithak/Box-Framework-Automation/blob/master/image/5.boxfinal.JPG">
 
-The entire code hasn't been uploaded & is not ready to "run in a click" , and is partially available for viewing purpose. 
+- I've uploaded the code and methodolgies along with the intense logic that has been used in the project . The Required runtime is around 5 mins for a "Typically" Huge Dataset. The project takes into account by usage of various py-libraries such as (numpy,pandas,matplotlib,math etc ).
 
-***NOTE :- The data used here is private and its against the rule for public use , hence I've made sure that its not openly available / visible to visitors***
+- The entire code hasn't been uploaded & is not ready to "run in a click" , and is partially available for viewing purpose. 
+
+- NOTE :- The data used here is private and its against the rule for public use , hence I've made sure that its not openly available / visible to open community.
