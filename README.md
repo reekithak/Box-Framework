@@ -1,7 +1,9 @@
-# ***Box-Framework-Automation***
+# Box-Framework-Automation
 
-
+## NOTE:- The Project is not open and also isnt the data.
 The Repository contains (Partial - Sample & Worked out) Codes of the project "Box Framework".
+
+
 Box Framwork is a Data Analytics based project (Automation Framework for a data-analytics pipeline) , that i worked on during my internship period at Positive Integers. The project uses Data Analytics use-cases to form boxes (Sets / Containers) of 
 products that can be sold into the open markets.
 
